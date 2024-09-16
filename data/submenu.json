@@ -1,0 +1,7 @@
+{
+    "Government Structure": ["Governance", "Civil Liberties", "Law Enforcement", "Back"],
+    "Economy": ["Fiscal Policy", "Monetary Policy", "Labor Laws", "Industry Regulation", "Back"],
+    "Social Policy": ["Welfare", "Housing", "Immigration", "Cultural Programs", "Back"],
+    "Education": ["Public Education", "Higher Education", "Vocational Training", "Back"],
+    "Justice": ["Criminal Justice", "Civil Rights", "Judicial System", "Back"]
+}

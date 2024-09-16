@@ -1,0 +1,20 @@
+{
+    "event1": {
+        "name": "Event 1",
+        "date": "2021-01-01",
+        "location": "Location 1",
+        "description": "Description 1"
+    },
+    "event2": {
+        "name": "Event 2",
+        "date": "2021-02-02",
+        "location": "Location 2",
+        "description": "Description 2"
+    },
+    "event3": {
+        "name": "Event 3",
+        "date": "2021-03-03",
+        "location": "Location 3",
+        "description": "Description 3"
+    }
+}
